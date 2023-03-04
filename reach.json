@@ -1,10 +1,10 @@
 {
   "ver":1.0,
   "se":{
-    "3":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/ron.mp3"},
-	"8":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/ron.mp3"},
-	"9":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/ron.mp3"},
-	"11":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/ron.mp3"},
+    "3":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/countdown5.mp3"},
+	"8":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/btn_appear.mp3"},
+	"9":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/new_dora.mp3"},
+	"11":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/hule_fan_out.mp3"},
     "25":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/ron.mp3"},
     "26":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/ron.mp3"},
     "27":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/ron.mp3"},
@@ -17,7 +17,7 @@
     "34":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/ron.mp3"},
     "35":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/ron.mp3"},
     "36":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/ron.mp3"},
-    "40":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/ron.mp3"},
-    "41":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/ron.mp3"}
+    "40":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/winlose.mp3"},
+    "41":{"url":"https://raw.githubusercontent.com/Nirkvash/tenhou/main/yakuman.mp3"}
   }
 }
